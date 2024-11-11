@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me: 
-Senior Frontend Engineer with over 6+ years of successful software delivery experience.
+Senior Frontend Engineer with over 7+ years of successful software delivery experience.
 Specialized in using Angular, with production experience in React, with both TypeScript 
 and JavaScript, delivering performant web applications. 
 My proudest achievements include delivering 100+ features in more than 10 projects for 
