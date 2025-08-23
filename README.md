@@ -28,7 +28,5 @@ Jasmine, Mocha
 I am also the creator of these tools:
 - [SmartBuy](https://smartbuy.pt)
 - [Carta de Apresentacao](https://cartadeapresentacao.pt)
-- <a href="https://smartbuy.pt" target="_blank" rel="noopener noreferrer">SmartBuy</a>
-- <a href="https://cartadeapresentacao" target="_blank" rel="noopener noreferrer">Carta de Apresentacao</a>
 
 
