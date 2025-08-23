@@ -26,5 +26,7 @@ Jasmine, Mocha
 🌐 Interests: Web Performance, Testing, Micro Frontends
 
 I am also the creator of these tools:
-- https://smartbuy.pt
-- https://cartadeapresentacao.pt
+- [SmartBuy](https://smartbuy.pt)
+- [Carta de Apresentacao](https://cartadeapresentacao.pt)
+
+
