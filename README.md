@@ -24,3 +24,7 @@ Jasmine, Mocha
 📊 Methodologies: Agile, SCRUM
 
 🌐 Interests: Web Performance, Testing, Micro Frontends
+
+I am also the creator of these tools:
+- https://smartbuy.pt
+- https://cartadeapresentacao.pt
