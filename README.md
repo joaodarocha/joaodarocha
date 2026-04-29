@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me: 
-Frontend Engineer with 8+ years of experience delivering scalable and high-performance 
+Frontend Engineer with 9+ years of experience delivering scalable and high-performance 
 web applications for global companies, including Google and enterprise SaaS platforms. 
 Specialized in Angular, TypeScript, and modern frontend architecture, with strong experience 
 in React and cloud environments. I have delivered 100+ features for products serving 
