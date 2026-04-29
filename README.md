@@ -27,5 +27,6 @@ Chrome DevTools, Claude Code
 I am also the creator of these tools:
 - [SmartBuy](https://smartbuy.pt)
 - [Carta de Apresentacao](https://cartadeapresentacao.pt)
+- [Time Off Calendar](https://timeoffcalendar.com)
 
 
