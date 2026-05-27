@@ -1,10 +1,11 @@
 ### 👨‍💻 About Me: 
-Frontend Engineer with 9+ years of experience delivering scalable and high-performance 
-web applications for global companies, including Google and enterprise SaaS platforms. 
+Senior Frontend Engineer & Team Lead with 8+ years of experience delivering scalable 
+and high-performance web applications for global companies, including Google and 
+Inspired Thinking Group's award-winning, Gartner-recognized ecosystem. 
 Specialized in Angular, TypeScript, and modern frontend architecture, with strong experience 
-in React and cloud environments. I have delivered 100+ features for products serving 
-millions of users, consistently improving performance, code quality, and release stability 
-through strong testing practices and close collaboration with cross-functional teams.
+in React and cloud environments. I have delivered 100+ features for products serving millions 
+of users, consistently improving performance, code quality, and release stability through 
+strong testing practices and close collaboration with cross-functional teams.
 
 🛠️ Throughout my career, I've been involved in startups and multinational corporations. 
 I love to drive projects forward, focusing on clean, maintainable, and testable code.
