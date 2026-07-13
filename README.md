@@ -23,11 +23,11 @@ Chrome DevTools, Claude Code
 
 📊 Methodologies: Agile, SCRUM
 
-🌐 Interests: Web Performance, Testing, Engineering Manager
+🌐 Interests: Web Performance, Testing, Engineering Management
 
 I am also the creator of these tools:
 - [SmartBuy](https://smartbuy.pt)
-- [Carta de Apresentacao](https://cartadeapresentacao.pt)
 - [Time Off Calendar](https://timeoffcalendar.com)
+- [Comlyzer.com](https://comlyzer.com)
 
 
